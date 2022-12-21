@@ -35,7 +35,7 @@ console.log(result);
 
 * **Higher education:** 2007-2012 – Nothern Arktic State University.  Specialization: Automation of technical systems
 * **Courses:**
-    + April 2022 - Software Testing Introduction  Course (by Epam)
+    + June 2022 - Frontend start (by ITlogia)
     
 
 ## English proficiency level:
