@@ -1,5 +1,0 @@
-##Nikita Kirshakov
-
-###Company
-#
-#
